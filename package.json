@@ -1,0 +1,22 @@
+{
+  "name": "codewars-kata",
+  "version": "1.0.0",
+  "description": "Codewars Kata files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tyler-Lundin/codewars.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tyler-Lundin/codewars/issues"
+  },
+  "homepage": "https://github.com/Tyler-Lundin/codewars#readme",
+  "devDependencies": {
+    "typescript": "^4.8.3"
+  }
+}
